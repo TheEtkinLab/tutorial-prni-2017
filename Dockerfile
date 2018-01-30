@@ -1,4 +1,4 @@
-FROM jupyter/scipy-notebook
+FROM mnarayan/monotebook
 
 # Copy repo into ${HOME}, make user own $HOME
 USER root
